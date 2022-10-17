@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning: React
+- 💬 Ask me about: Code and Games
+📫 How to reach me: https://www.linkedin.com/in/matheus-campos-de-oliveira-118168240/
+- 🔭 What I've learned: JavaScript ES6, HTML, CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCdeOliveira&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCdeOliveira)](https://github.com/anuraghazra/github-readme-stats)
