@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Code and Games
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-campos-de-oliveira-118168240/
 - 🔭 What I've learned: JavaScript ES6, HTML, CSS, Jest, RTL, React
-- 📫 How to reach me: matheuswe2010@hotmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCdeOliveira&show_icons=true&theme=onedark)
 
